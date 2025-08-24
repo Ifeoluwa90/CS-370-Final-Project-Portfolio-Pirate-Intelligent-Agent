@@ -247,7 +247,7 @@ This project is created for academic purposes as part of CS 370 coursework. Plea
 ## 📞 Contact
 
 **Student**: Ifeoluwa Adewoyin  
-**Email**: Ifeoluwaadewoyin90@gmail.com 
+**Email**: Ifeoluwaadewoyin90@gmail.com
 **Course**: CS 370  
 **Project**: Pirate Intelligent Agent  
 
